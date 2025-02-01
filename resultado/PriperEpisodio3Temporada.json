@@ -1,0 +1,41 @@
+{
+    "id": 1210081,
+    "seriesId": 76666,
+    "name": "ふたたび冒険さまよう湖",
+    "aired": "1986-09-10",
+    "runtime": 25,
+    "nameTranslations": [
+        "deu",
+        "eng",
+        "fra",
+        "ita",
+        "spa",
+        "zho",
+        "pt",
+        "jpn",
+        "pol",
+        "cat"
+    ],
+    "overview": "激闘の末、勝負は決した。天下一武道会の優勝者となったのは、ジャッキーチュンだった。悟空の力は、あと一歩のところで及ばなかったのだ。それでも清々しい顔の悟空は、仲間たちと別れて筋斗雲に飛び乗る。ただ一人、再びドラゴンボールを探す旅に出たのだ。",
+    "overviewTranslations": [
+        "deu",
+        "eng",
+        "fra",
+        "ita",
+        "spa",
+        "zho",
+        "pt",
+        "jpn",
+        "cat"
+    ],
+    "image": "https://artworks.thetvdb.com/banners/episodes/76666/1210081.jpg",
+    "imageType": 12,
+    "isMovie": 0,
+    "seasons": null,
+    "number": 1,
+    "absoluteNumber": 29,
+    "seasonNumber": 3,
+    "lastUpdated": "2023-08-16 16:20:49",
+    "finaleType": null,
+    "year": "1986"
+}

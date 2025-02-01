@@ -1,112 +1,70 @@
-import json
 import requests
-from typing import Dict, List, Optional
-from datetime import datetime
+import json
+from services import auth, TVDB_Services, config
+
+def to_json(data, filename):
+    with open(filename, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
 
 if __name__ == '__main__':
-    API_KEY = "7da18426-1bdc-464b-89e1-fedba6b544fa"
-    BASE_URL = "https://api4.thetvdb.com/v4"
+    # Obtiene el token de autenticación
+    token = auth.get_token()
 
-    def get_token():
-        url = f"{BASE_URL}/login"
-        data = {"apikey": API_KEY}
-        response = requests.post(url, json=data)
-        if response.status_code == 200:
-            return response.json()["data"]["token"]
-        else:
-            print(f"Failed to get token. Status code: {response.status_code}, Response: {response.text}")
-            raise Exception(f"Error en la solicitud: {response.status_code}")
-
-    token = get_token()
+    # Configura los encabezados de la solicitud con el token de autenticación
     headers = {
         "Authorization": f"Bearer {token}",
         "Accept": "application/json"
     }
 
-    def get_dragonball_series() -> List[Dict]:
-        """
-        Obtiene todas las series de Dragon Ball.
-        Filtra cuidadosamente para evitar falsos positivos.
-        """
-        try:
-            response = requests.get(
-                f"{BASE_URL}/search",
-                params={
-                    "query": "Dragon Ball",
-                    "type": "series"
-                },
-                headers=headers
-            )
-            response.raise_for_status()
-            data = response.json()['data']
+    # TAREA 1 - Obtener todas las series de Dragon Ball oficiales.
 
-            # return data
-            # Filtrar solo las series genuinas de Dragon Ball
-            return [series for series in data
-                    if "Dragon Ball" in series['name']
-                    and not any(excluded in series['name'].lower()
-                                for excluded in ['parody', 'fanfilm'])]
+    dragonballseries = TVDB_Services.get_dragonball_series(headers)
+    print(f"TAREA 1\n\t-> Hay {len(dragonballseries)} series originales de Dragon Ball en la base de datos.\n")
 
-        except requests.RequestException as e:
-            print(f"Error al obtener las series: {e}")
-            return []
+    db_antigua = None
 
-    def get_oldest_poster_series_1986() -> Optional[Dict]:
-        """
-        Obtiene la serie más antigua registrada de 1986.
-        Devuelve un diccionario con la información de la serie o None si no se encuentra.
-        """
-        try:
-            response = requests.get(
-                f"{BASE_URL}/series/filter",
-                params={
-                    "year": 1986,
-                    "sort": "firstAired"
-                },
-                headers=headers
-            )
-            response.raise_for_status()
-            data = response.json()['data']
+    # TAREA 2 - Buscar el póster de la serie original de Dragon Ball (1986).
 
-            # for serie in data:
-            #     print(serie['name'],serie['firstAired'], serie['image'])
+    for serie in dragonballseries:
+        if serie['year'] == "1986":
+            db_antigua = serie
+            print(f"TAREA 2\n\t-> Póster de la serie original de Dragon Ball(1986): {serie['image_url']}\n")
 
+    # TAREA 3 - Obtener la fecha de emisión del primer episodio de la tercera temporada de la
+    # serie original de Dragon Ball con su nombre y descripción en español.
 
-            return data
+    fecha_emision_3season = TVDB_Services.fecha_emision(db_antigua['tvdb_id'], headers)
 
-        except requests.RequestException as e:
-            print(f"Error al obtener la serie: {e}")
-            return None
+    id_episodio = fecha_emision_3season['id']
 
-    def fecha_emision():
-        try:
-            response = requests.get(
-                f"{BASE_URL}/search",
-                params={
-                    "query": "Saga del Ejército de la Patrulla Roja",
-                    "type": "series"
-                },
-                headers=headers
-            )
-            response.raise_for_status()
-            data = response.json()['data']
+    # Realiza una solicitud para obtener la traducción al español del primer episodio de la tercera temporada
+    response = requests.get(
+        f"{config.BASE_URL}/episodes/{id_episodio}/translations/spa",
+        headers=headers
+    )
+    response.raise_for_status()
+    datos_episodio = response.json()['data']
 
-            return data
+    print(f"TAREA 3\n\t-> La fecha de emisión del primer episodio de la tercera temporada "
+          f"de Dragon Ball es: '{fecha_emision_3season['aired']}' con nombre '{datos_episodio['name']}' y "
+          f"con descripcion '{datos_episodio['overview']}'\n")
 
-        except requests.RequestException as e:
-            print(f"Error al obtener las series: {e}")
-            return []
+    # TAREA 4 - Obtener la información del actor que interpretó a Goku en Dragonball Evolution
+    # junto con todas sus participaciones en series y películas.
 
-    dragonballseries = get_dragonball_series()
-    print("Series de Dragon Ball: ", len(dragonballseries))
-    posterantiguo = get_oldest_poster_series_1986()
-    # print("Poster más antiguo de 1986: ", posterantiguo['image'])
-    EjércitodelaPatrullaRoja = fecha_emision()
-    print("Fecha de emisión de la Saga del Ejército de la Patrulla Roja: ", EjércitodelaPatrullaRoja)
+    actor_dbevolution = TVDB_Services.actor_goku(headers)
+    print(f"TAREA 4\n\t-> El nombre del actor de Goku en la pelicula Dragon Ball Evolution es "
+          f"'{actor_dbevolution['name']}' y ha estado en {len(actor_dbevolution['characters'])} series y peliculas.\n")
 
+    # TAREA 5 - Obtener la pelicula con mejor score del año en el que salió la película “La guerra de los mundos”.
 
-    with open('SeriesDragonBall.json', 'w', encoding='utf-8') as f:
-        json.dump(dragonballseries, f, ensure_ascii=False, indent=4)
-    with open('PosterViejo.json', 'w', encoding='utf-8') as f:
-        json.dump(posterantiguo, f, ensure_ascii=False, indent=4)
+    mejor_peli = TVDB_Services.mejor_peli_ano(headers)
+    print(f"TAREA 5\n\t-> La mejor pelicula del año 2005 es '{mejor_peli['name']}' con "
+          f"una puntuacion de {mejor_peli['score']}.")
+
+    # Guardamos los resultados en archivos JSON
+    to_json(dragonballseries, 'resultado/SeriesDragonBall.json')
+    to_json(fecha_emision_3season, 'resultado/PriperEpisodio3Temporada.json')
+    to_json(actor_dbevolution, 'resultado/ActorDBEvolution.json')
+    to_json(mejor_peli, 'resultado/MejorPeliAño.json')
 

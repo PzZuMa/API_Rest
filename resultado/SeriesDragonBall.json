@@ -1,0 +1,610 @@
+[
+    {
+        "objectID": "series-295068",
+        "aliases": [
+            "Dragon Ball Chou",
+            "Dragon Ball Super (2015)",
+            "ドラゴンボール超",
+            "龙珠超",
+            "Bola de Drac Súper"
+        ],
+        "country": "jpn",
+        "id": "series-295068",
+        "image_url": "https://artworks.thetvdb.com/banners/posters/295068-9.jpg",
+        "name": "ドラゴンボール超[スーパー]",
+        "first_air_time": "2015-07-05",
+        "overview": "ドラゴンボールの力によって”魔人ブウ”の記憶が人々から消え去り、さらに月日が流れた地球。悟空は、チチの言いつけで働くことになって農業をしつつもさぼりながら修業の毎日。そして結婚したての悟飯とビーデルは幸せな日々を過ごしていた。一方、宇宙の彼方では39年ぶりに目覚めた破壊神ビルスが、予知夢で見た自分のライバルになり得るであろう何者かの名前を思い出すべく奮闘していた。果たしてその者の名前は！？",
+        "primary_language": "jpn",
+        "primary_type": "series",
+        "status": "Ended",
+        "type": "series",
+        "tvdb_id": "295068",
+        "year": "2015",
+        "slug": "dragon-ball-super",
+        "overviews": {
+            "ara": "بعد انتهاء المعركة الشاقة والقاتلة مع \"مجين بو\" الذي أرعب الكون يعود السلام لسكان الارض والكون ككل لفترة طويلة لكن سرعان ما قام احد اتباع \"فريزا\" القدماء بجمع الكرات السبع ليوم باعادة احياء \"فريزا\" واعادته للحياة ليذهب الاخير كي يتدرب جيدا لينتقم من \"سون غوكو\" الذي قتله مسبقا ومن هنا تبدأ احداث القصة الجديدة.",
+            "cat": "La història de l'anime s'inicia sis mesos després de la derrota del monstre Bu, quan la Terra s'ha convertit en un lloc pacífic, i és la continuació canònica a Bola de drac Z, continuant amb els esdeveniments de les pel·lícules Bola de Drac Z: La batalla dels déus i Bola de Drac Z: La resurrecció d'en Freezer.",
+            "dan": "Med Majin Buu besejret et halvt år tidligere, vender fred endelig tilbage til Jorden, hvor Son-Goku (nu en landmand) og hans venner nu lever fredelige liv. Men en ny trussel opstår i form af Beerus, Ødelæggelsesguden. Beerus betragtes som det mest skræmmende væsen i hele universet og er ivrig efter at bekæmpe den legendariske kriger, der blev set i en profeti, der er forudsagt for årtier siden, kendt som Super Saiyajin Guden. Serien genfortæller begivenhederne fra de to Dragon Ball Z-film, Battle of Gods and Resurrection 'F', før den fortsætter i en helt ny retning.",
+            "deu": "Dragon Ball Super wird die einzigartigen Charaktere des Franchises wiedervereinigen, die Nachwirkungen von Gokus heftigem Kampf gegen Majin Buu behandeln, und zeigen, wie er versucht den zerbrechlichen Frieden auf der Erde zu erhalten. Unter Beaufsichtigung des originalen Dragon Ball-Schöpfers Akira Toriyama und in Kooperation mit Fuji TV wird Dragon Ball Super an seine historische Vergangenheit anknüpfen, um ein auffallendes neues Universum, das Fans einlädt und neue Zuschauer dazugewinnt, zu erschaffen.",
+            "eng": "With Majin Boo defeated half-a-year prior, peace returns to Earth, where Son Goku (now a radish farmer) and his friends now live peaceful lives. However, a new threat appears in the form of Beerus, the God of Destruction. Considered the most terrifying being in the entire universe, Beerus is eager to fight the legendary warrior seen in a prophecy foretold decades ago known as the Super Saiyan God. The series retells the events from the two Dragon Ball Z films, Battle of Gods and Resurrection 'F' before proceeding to an original story about the exploration of alternate universes.",
+            "fra": "Après le combat contre Boo, la Terre connait une période de paix. Cependant, le dieu de la destruction, Beerus, vient de se réveiller d'un sommeil de 39 ans avec l'intention d'affronter le Super Saïyen Divin, le guerrier légendaire dont parle une ancienne prophétie exprimée par le Poisson Oracle.",
+            "heb": "לראשונה מזה זמן רב, כל החבורה שמחה להפגש שוב ביום ההולדת של בורמה. אבל אז מופיע פתאום בירוס , אל ההרס. גוקו נכנס לקרב סוער עם בירוס אבל הוא לא חזק ועוצמתי כמו אל ההרס. בירוס קוטע את הקרב ומספר לגוקו עובדה מזעזעת: היקום בו גוקו וחבריו נמצאים הוא רק אחד מתוך 12 יקומים! וזה לא הכל - לכל אחד מהיקומים יש אל הרס משל עצמו, מה שאומר שאולי קיימים יריבים חזקים יותר אפילו מבירוס! גוקו מחליט להצטרף למקיטה, ולהתאמן תחת וויס. באותו הזמן כוחות הרשע מגיעים לתקוף את כדור הארץ בהמוניהם , ובראשם עומד לא אחר מאשר פריז, הקיסר של היקום, ויש לו יכולת חדשה! כדי להתמודד מולו גוקו משנה צורה למצב סופר סאיאה עוצמתי מתמיד. קרב סוער שוב מתחיל! ואז... העולם של דרגון בול מגיע למימדים חדשים, מעבר לכל דמיון!",
+            "ita": "Sono passati 4 anni dalla sconfitta di Majin Bu e la pace è tornata sulla Terra. Goku e i suoi amici hanno ripreso la vita di tutti i giorni. Ma nuove minacce incombono!\r\nMidquel di Dragon Ball Z, la serie si posiziona tra la sconfitta di Majin Bu e il 28° Torneo Mondiale di Arti Marziali, coprendo il cosiddetto “decennio perduto”, i dieci anni di storia mai descritti dalla serie originale.",
+            "jpn": "ドラゴンボールの力によって”魔人ブウ”の記憶が人々から消え去り、さらに月日が流れた地球。悟空は、チチの言いつけで働くことになって農業をしつつもさぼりながら修業の毎日。そして結婚したての悟飯とビーデルは幸せな日々を過ごしていた。一方、宇宙の彼方では39年ぶりに目覚めた破壊神ビルスが、予知夢で見た自分のライバルになり得るであろう何者かの名前を思い出すべく奮闘していた。果たしてその者の名前は！？",
+            "kor": "오공은 사상 최대의 강적인 마인 부우와의 처절한 사투 끝에 마인 부우를 제압하는데 성공하고, 지구에는 다시 평화가 찾아온다. \r\n 그렇게 평화로운 나날을 보내던 중, 오랜 잠에서 깨어난 파괴의 신 비루스가 등장하고, 과거 우주의 제왕으로 불리며 사람들을 공포에 떨게 했던 프리저마저 부활하는 등, 오공 일행을 위협하는 일들이 끊임없이 발생한다. \r\n 거기에 지구 주변에서 갑자기 별들이 사라지는 기묘한 현상까지 일어나기 시작하면서 지구에는 또 다시 불길한 위기감이 감돈다. \r\n 오공 일행은 이 위기를 타파하고 지구의 평화를 지키기 위해 다시 힘을 모아 일어서기로 하는데.",
+            "lat": "Nuevos enemigos, nuevas y poderosas formas, y nuevos personajes que darán forma al futuro de los conocidos personajes. ¡Emociónate, disfruta y diviértete con Son Goku, Vegeta, Gohan y el resto de sus compañeros!",
+            "pol": "Po pokonaniu Majin Buu Goku powraca na Ziemię, aby wieść życie prostego farmera. Na horyzoncie pojawia się jednak nowe zagrożenie. Beerus, jeden z bogów zniszczenia i strażnik równowagi w Siódmym Wszechświecie, budzi się z długiego snu. Jego celem jest pojedynek z legendarnym Super Saiyaninem. Chcąc uratować swoją planetę, Goku musi połączyć w sobie moc pięciu wojowników. (Źródło: Teleman)",
+            "por": "Após a derrota de Majin Buu, Goku arranja um novo emprego como... fazendeiro de nabos? Agora que a Terra está em paz, nosso heróis levam vidas mundanas, mas não por muito tempo. Longe dali, Bills, o poderoso Deus da Destruição, recebe uma profecia de que encontrará seu fim nas mãos de um ser ainda mais poderoso, e sua busca pelo Deus dos Saiyajins o traz para a Terra. Será que Goku e seus amigos conseguirão derrotar seu mais poderoso inimigo até então?",
+            "pt": "Após a derrota de Majin Buu, Goku arranja um novo emprego como... fazendeiro de nabos? Agora que a Terra está em paz, nossos heróis levam vidas mundanas, mas não por muito tempo. Longe dali, Beerus, o poderoso Deus da Destruição, recebe uma profecia de que encontrará seu fim nas mãos de um ser ainda mais poderoso, e sua busca pelo Deus dos Saiyajins o traz para a Terra. Será que Goku e seus amigos conseguirão derrotar seu mais poderoso inimigo até então?",
+            "rus": "6Спустя 6 месяцев после победы над Маджином Буу, с помощью Драгон-Боллов, Зет-Воины стирают людям память о Маджине Буу и связанных с ним событиях и начинают жить мирной жизнью. Чи-Чи заставляет Гоку искать работу, а тот, в свою очередь, хочет спокойно тренироваться, чтобы быть готовым к угрозам из вне. Остальные же герои наслаждаются миром и покоем.",
+            "spa": "Nuevos enemigos, nuevas y poderosas formas, y nuevos personajes que darán forma al futuro de los conocidos personajes. ¡Emociónate, disfruta y diviértete con Son Goku, Vegeta, Gohan y el resto de sus compañeros!",
+            "zho": "【S01 E01-E14】 破壞神比魯斯篇\r\n在魔人布歐一戰四年後，地球上人們對魔人布歐的記憶被消除，孫悟飯與薇黛兒已結為夫妻，莊子在自家舉辦慶祝活動，撒旦先生剛好獲得世界和平大獎並得到一億元的獎金，由於受之有愧，他將獎金轉送給悟空，悟空一家便以此橫財將家裡改裝成鄉下豪宅。同時破壞神比魯斯剛甦醒起來，在各星球大肆破壞，界王神們開始留意此事。比魯斯聽說了將菲利打倒的撒亞人，因而前往界王星找尋孫悟空。很久沒見到強敵的孫悟空顯得特別興奮，不顧界王的忠告而向比魯斯挑戰，但是在壓倒性的力量之前孫悟空戰敗了。在地球上因比魯斯跟布歐爭布丁，激怒了比魯斯打算要毀滅地球。而孫悟空在神龍的引導下，成功變身「超級撒亞人之神」，並與比魯斯一戰，在大戰後，孫悟空的力量使比魯斯滿意了，也決定不毀滅地球，使世界恢復和平。可參閱《龍珠Z 神與神》\r\n\r\n【S02 E05-E13】 黃金菲利篇\r\n在與破壞神比魯斯的戰鬥六個月之後，地球再度迎來和平，但菲利軍殘存的索魯貝為了尋找龍珠而逼近地球。其目的是為了讓軍團再起而令菲利復活。宇宙史上最邪惡的這一願望終於實現，復活的菲利計畫著向孫悟空這些撒亞人復仇……於是新菲利軍聚集到地球，孫悟飯、笛子魔童、無限、龜仙人、天津飯與一千名士兵展開激戰。悟空與比達開始了與菲利的宿命對決，菲利因為在地獄修練四個月的實力獲得了壓倒性的提升，菲利變身新形態為「黃金菲利」，孫悟空也變身新形態為「超級撒亞人之神-藍」跟菲利展開激戰。\r\n激戰中孫悟空發現黃金菲利的弱點，不斷得攻擊使菲利下風，孫悟空放過菲利一時鬆懈就遭索魯貝暗算而重傷，悟空倒下時由比達輪流上陣對付菲利，孫悟空吃"
+        },
+        "translations": {
+            "ara": "دراغون بول سوبر",
+            "cat": "Bola de drac: Súper",
+            "dan": "Dragon Ball Super",
+            "deu": "Dragon Ball Super",
+            "eng": "Dragon Ball Super",
+            "fra": "Dragon Ball Super",
+            "heb": "דרגון בול סופר",
+            "ita": "Dragon Ball Super",
+            "jpn": "ドラゴンボール超[スーパー]",
+            "kor": "드래곤볼 슈퍼",
+            "lat": "Dragon Ball Super",
+            "pol": "Dragon Ball Super",
+            "por": "Dragon Ball Super",
+            "pt": "Dragon Ball Super",
+            "rus": "Драконий жемчуг супер",
+            "spa": "Dragon Ball Super",
+            "zho": "龍珠超"
+        },
+        "network": "Fuji TV",
+        "remote_ids": [
+            {
+                "id": "http://www.toei-anim.co.jp/tv/dragon_s",
+                "type": 4,
+                "sourceName": "Official Website"
+            },
+            {
+                "id": "DBSuperOfficialEnglish",
+                "type": 5,
+                "sourceName": "Facebook"
+            },
+            {
+                "id": "dragonballsuper",
+                "type": 6,
+                "sourceName": "X (Twitter)"
+            },
+            {
+                "id": "tt4644488",
+                "type": 2,
+                "sourceName": "IMDB"
+            },
+            {
+                "id": "EP02576133",
+                "type": 3,
+                "sourceName": "TMS (Zap2It)"
+            },
+            {
+                "id": "62715",
+                "type": 12,
+                "sourceName": "TheMovieDB.com"
+            }
+        ],
+        "thumbnail": "https://artworks.thetvdb.com/banners/posters/295068-9_t.jpg"
+    },
+    {
+        "objectID": "series-81472",
+        "aliases": [
+            "Dragonball Z",
+            "Dragonball Z",
+            "Dragon Ball Z (1989)",
+            "דרגון בול זי",
+            "ドラゴンボールゼット",
+            "DRAGON BALL Z"
+        ],
+        "country": "jpn",
+        "id": "series-81472",
+        "image_url": "https://artworks.thetvdb.com/banners/posters/81472-7.jpg",
+        "name": "ドラゴンボールZ",
+        "first_air_time": "1989-04-26",
+        "overview": "天下一武道会の壮絶な闘いから５年。大人になった孫悟空は、結婚したチチとの間に息子の悟飯をもうけ、平穏な日々を過ごしていた。だが、ある日突然、宇宙からやって来た謎の男によって、平和はもろくも崩れ去ってしまう。ラディッツと名乗る彼は、強靱な尻尾を持ち、悟空やクリリンさえも一撃で吹き飛ばしてしまうほどのパワーを持っていた。このラディッツこそ、惑星ベジータを出身地にもつ戦闘民族サイヤ人にして、星が滅亡した際に生き残った、孫悟空の実の兄だった！　ラディッツは力なき悟飯を人質に取り、自分たちの仲間に加わるよう悟空に迫る。サイヤ人の狙いは地球人を絶滅させ、星を我がものにすること。邪悪な野望に手を貸すことなど出来るはずがない。悟空は宿命のライバル・ピッコロとコンビを組み、ラディッツとの闘いに挑む！\r\n",
+        "primary_language": "jpn",
+        "primary_type": "series",
+        "status": "Ended",
+        "type": "series",
+        "tvdb_id": "81472",
+        "year": "1989",
+        "slug": "dragon-ball-z",
+        "overviews": {
+            "ara": "تبدأ القصة بعد مرور 5 سنوات على هزيمة بيكولو جونيور وثم أتى شخص يدعى رادتز إلى الأرض للبحث عن أخوه غوكو ويخبر غوكو أن إسمه كاكاروت وأنه من السايان وولد في كوكب فيجيتا ولكن قام والده بنقله إلى كوكب الأرض لكي لا يموت أثناء إنفجار كوكب فيجيتا ويقول رادتز لغوكو بالانضمام إليه ولكن غوكو يرفض وثم يقوم راتدز بخطف غوهان إبن غوكو وثم يتحالف غوكو وبيكولو ضد رادتز",
+            "cat": "Després d'una primera part que va tenir molt èxit i que acabava, com totes les bones històries, amb casament, en Son Goku ha tornat a la càrrega amb \"Dragon Ball Z\", una segona part plena d'acció, aventura i viatges espacials en què el nostre dropo preferit haurà de lluitar molt, no pas per guanyar el Torneig d'Arts Marcials, sinó per continuar sent el protagonista. El relleu generacional ve amb el seu fill Son Gohan, el seu arxienemic Vegeta i un desconegut vingut d'un altre temps, el misteriós Trunks. I dolents de disseny: el malvat Freezer, la seva família, els androides, en Cèl·lula i el Mal amb majúscules, el Bu. Hi ha fans de la sèrie que consideren que segones parts no són mai bones, i \"Dragon Ball Z\" n'és un bon exemple. Hem de reconèixer que la simpatia dels primers capítols s'ha perdut, però hi guanyem en espectacularitat, guió i nous personatges. Només pel fet d'incloure en Vegeta, aquesta segona part té raó de ser...",
+            "dan": "Mange år er gået, siden Son-Goku først søgte efter de syv Dragon Balls. Han er nu en voksen mand med en kone og søn. Ham og hans venner har slået sig ned i deres egne liv og for det meste er tingene ret fredelige. Men en dag lærer Son-Goku, at han virkelig er en Saiyajin og kommer fra en anden planet. Nu begynder nye eventyr for Son-Goku og hans venner, når de forsvarer deres hjem mod nye, mere magtfulde trusler.",
+            "deu": "Son-Goku, inzwischen mit Chichi verheiratet und Vater von Son-Gohan, erhält Besuch von seinem Bruder Radditz. Er erfährt, dass er vom Planeten Vegeta stammt, ein Saiya-jin ist und ursprünglich mit der Mission die Erde zu erobern losgeschickt wurde. Weil Son-Goku jedoch als Junge in eine Schlucht stürzte und sein Gedächtnis verlor, konnte er sich an seinen Auftrag nicht mehr erinnern und genoss eine mehr oder minder normale Jugend bei seinem „Adoptiv“-Großvater, der ihn die Kampfkunst lehrte. Radditz erinnert Son-Goku an seine eigentliche Mission, doch er stößt auf wenig Gegenliebe und das „Dragon-Ball-Z“-Abenteuer kann beginnen.",
+            "eng": "Many years have passed since Goku first searched for the Dragon Balls. He is a grown man, with a wife and son. He and his friends have settled into their own lives and, for the most part, things are rather peaceful. Then one day, Goku learns he is really a Saiyan and comes from another planet. Now begins new adventures for Goku and his friends as they defend their home against new, more powerful threats.",
+            "eus": "Son Goku eta bere lagunen abenturak kontatzen ditu. Orain Goku Chichirekin ezkonduta dago eta seme bat dauka: Son Gohan. Baina espaziotik etsai bat dator.",
+            "fra": "Dragon Ball Z se déroule cinq ans après le mariage de Son Goku et de Chichi. Raditz, un mystérieux guerrier de l'espace, frère de Son Goku, arrive sur Terre pour retrouver Goku. Ce dernier apprend qu'il vient d'une planète de guerriers redoutables dont il ne reste plus que quatre survivants.",
+            "glg": "Songoku é agora adulto e enfrontaráse ós novos inimigos que aparezan no seu camiño, entre eles Radditz, Freezer, Célula, os androides C17 e C18 e finalmente Buu.\r\n\r\nNarra a aventura da vida adulta do ultracoñecido personaxe Songoku, quen, xunto cos seus compañeiros, defende a terra de diversos viláns que van aparecendo ao longo da serie, cada cal máis poderoso ca o anterior. Nesta serie nárrase paralelamente á vida adulta de Son Goku a madurez do seu fillo, Gohan.",
+            "heb": "בסדרת האנימה \"דרגון בול זי\", אשר עלילתה מתרחשת בהמשך חייו של גוקו, גוקו פוגש גוקו באחיו הביולוגי הבוגר, ראדיץ, אשר מגיע לכדור הארץ ומספר לו כי שניהם משתייכים למעשה לגזע חוצנים המכונים סאייאן (נקראים \"שבט הסאייאה\" בדיבוב העברי). גוקו מגלה שהוא נשלח במקור לכדור הארץ על ידי גזע הסאייאן במטרה להשמיד את הכוכב, אך כאשר החללית שלו התרסקה במהלך הנחיתה גוקו איבד את הזיכרון ומשום כך לא פעל להשלמת המשימה עד כה.\r\nבמטרה לגרום לגוקו לבצע את משימתו הוא חוטף את בנו, גוהאן ומביא אולטימטום שלא יחזיר את גוהאן עד שגוקו לא יהרוג לפחות 100 בני אנוש. גוקו ופיקולו מאחדים כוחות על מנת להביס את ראדיץ ולהחזיר את בנו של גוקו. בסוף הקרב גוקו נאלץ להקריב את חייו על מנת להרוג את ראדיץ. בהמשך, לוחמי הזי וסון גוקו נלחמים בקרב קשה מול הסאיינים שבאו במטרה להחריב את כדור הארץ ולזכות בכדורי הדרקון למימוש מטרותיהם האכזריות.\r\nלאחר מכן יוצאים סון גוקו ולוחמי הזי לכוכב נאמק במטרה להשתמש בכדורי הדרגון בול המקומיים במטרה להחזיר את לוחמי הזי שחוסלו בקרב נגד הסאיינים ונאלצים להלחם מול פריז, העריץ החייזרי שהשמיד את גזע הסאייאה ונגד כוחות צבא החיילים שלו. לאחר שהביסו את פריז ואת כוחותיו מגלים הלוחמים כי איום חדש ומאיים יותר מפריז נמצא באופק,",
+            "hun": "Sok év telt el azóta, hogy Goku először kereste a Sárkánygömböket. Goku felnőtt, felesége és gyereke is van és ahogyan barátai ő is éli az életét békésen. De egy napon Goku megtudja, hogy valójában ő csillagharcos és egy másik bolygóról származik. Goku és barátai számára ettől kezdve új kalandok és még erősebb ellenfelek várnak.",
+            "ita": "Sono passati ben cinque anni da quando Goku ha sconfitto Junior in uno scontro all'ultimo sangue. Goku nel frattempo si è sposato con Chichi e ha avuto un figlio di nome Gohan. La sua vita e quella dei suoi amici scorre tranquilla e pacifica quando un giorno una navicella spaziale contenente un individuo dall'aspetto umano arriva sulla Terra. Una volta atterrato, questi si reca da Goku, che si trova coi suoi amici sull'isola del Genio delle Tartarughe, affermando di essere suo fratello. L'extraterrestre riferisce inoltre di appartenere alla razza aliena dei Sayan e che il vero nome di Goku è Kaharoth. Da qui cominciano le nuove avventure di Goku e dei suoi amici, che dovranno difendere il pianeta dalle continue minacce sempre più gravi che lo colpiscono.",
+            "jpn": "天下一武道会の壮絶な闘いから５年。大人になった孫悟空は、結婚したチチとの間に息子の悟飯をもうけ、平穏な日々を過ごしていた。だが、ある日突然、宇宙からやって来た謎の男によって、平和はもろくも崩れ去ってしまう。ラディッツと名乗る彼は、強靱な尻尾を持ち、悟空やクリリンさえも一撃で吹き飛ばしてしまうほどのパワーを持っていた。このラディッツこそ、惑星ベジータを出身地にもつ戦闘民族サイヤ人にして、星が滅亡した際に生き残った、孫悟空の実の兄だった！　ラディッツは力なき悟飯を人質に取り、自分たちの仲間に加わるよう悟空に迫る。サイヤ人の狙いは地球人を絶滅させ、星を我がものにすること。邪悪な野望に手を貸すことなど出来るはずがない。悟空は宿命のライバル・ピッコロとコンビを組み、ラディッツとの闘いに挑む！\r\n",
+            "kor": "도리야마 아키라의 만화책에 바탕을 두고 제작된 애니메이션 시리즈.\r\n\r\n드래곤볼의 첫 TV시리즈 은 만화책의 기본 줄거리와 설정,\r\n순서를 지키는 한도 내에서 새로운 에피소드를 구체화하는 수준으로 제작되었다.\r\n하지만 손오공이 피콜로 주니어를 쓰러뜨리고, 치치와 결혼한 이후의 이야기는\r\n드래곤볼 Z라는 새로운 이름을 단 TV시리즈로 제작되었다.\r\n\r\n보통 드래곤볼이라는 통칭으로 불리는 만화 시리즈가 1995년에 완결된 후,\r\n애니메이션 시리즈는 만화책판과는 완전히 다른 새로운 이야기를 담은\r\n세번째 TV시리즈 드래곤볼GT로 이어지게 된다\r\n\r\n\r\n\r\n드래곤볼 Z 입니다.(드래곤볼 오리지널 이후의 스토리입니다.)",
+            "por": "O Dragon Ball Z é a continução de Dragon Ball, cinco anos após Goku ter derrotado Piccolo. Goku está mais velho e se casou com Chichi, como havia prometido no  ultimo Tenkaichi Budokai de Dragon Ball.\r\nEm Dragon Ball Z as histórias não são mais tão humorísticas e começam a ter mais ação.",
+            "pt": "O Dragon Ball Z é a continução de Dragon Ball, cinco anos após Goku ter derrotado Piccolo. Goku está mais velho e se casou com Chichi, como havia prometido no ultimo Tenkaichi Budokai de Dragon Ball. Em Dragon Ball Z as histórias não são mais tão humorísticas e começam a ter mais ação.",
+            "rus": "Сон Гоку живет спокойной жизнью, но затем появляются враги из космоса, планирующие вторжение на Землю. Будущее человечества под угрозой. Сон Гоку со своими друзьями сражаются против врагов, но они едва не погибают в битве против значительно более сильного противника. У сына Сон Гоку Гохана репутация труса, но он приходит на помощь отцу и становится намного сильнее его. Это очень популярный сериал, показывающий, как сын возмужал в боях.",
+            "spa": "Es la continuación de la serie de anime Dragon Ball, serie animada que fue dada a conocer en Japón en el año 1986. Dragon Ball comenzó como manga en 1984 y luego fue llevada a la animación por el estudio Toei Animation, bajo la mano de su creador, Akira Toriyama.\r\n\r\nDragon Ball Z se divide básicamente en cuatro sagas: la llegada de los Saiyajins, la batalla contra Freezer, el nacimiento de Célula y el despertar de Monstruo Bu. De éstas se desprenden subsagas y algunas otras historias que no son originales del manga.",
+            "zho": "《龙珠Z》是《龙珠》系列中的第二部，根据日本著名漫画家鸟山明的同名《龙珠》漫画改编，于1989年4月19日在日本富士电视台首播1996年1月31日播放完毕。\r\n改编于漫画中第195篇-第519篇，因为这期间鸟山明的漫画风格转为超激战，而且故事也和前194篇风格没有太大关联，因此由东映动画公司改编成为独立的动画片。题目中的“Z”为鸟山明所取，字母表最后一个字母，意为“结束”。\r\n故事发生于“龙珠”后五年的世界，讲述悟空和伙伴们保卫地球的故事。"
+        },
+        "translations": {
+            "ara": "دراغون بول زد",
+            "cat": "Bola de drac Z",
+            "dan": "Dragon Ball Z",
+            "deu": "Dragon Ball Z",
+            "eng": "Dragon Ball Z",
+            "eus": "Dragoi Bola Z",
+            "fra": "Dragon Ball Z",
+            "glg": "Dragon Ball Z",
+            "heb": "דרגון בול זי",
+            "hun": "Dragon Ball Z",
+            "ita": "Dragon Ball Z",
+            "jpn": "ドラゴンボールZ",
+            "kor": "드래곤볼 Z",
+            "por": "Dragon Ball Z",
+            "pt": "Dragon Ball Z",
+            "rus": "Драконий Жемчуг Зет",
+            "spa": "Dragon Ball Z",
+            "zho": "龙珠Z"
+        },
+        "network": "Fuji TV",
+        "remote_ids": [
+            {
+                "id": "10.5240/9A83-59AC-0EB8-D495-6551-R",
+                "type": 13,
+                "sourceName": "EIDR"
+            },
+            {
+                "id": "tt0121220",
+                "type": 2,
+                "sourceName": "IMDB"
+            },
+            {
+                "id": "12971",
+                "type": 12,
+                "sourceName": "TheMovieDB.com"
+            },
+            {
+                "id": "EP01264737",
+                "type": 3,
+                "sourceName": "TMS (Zap2It)"
+            }
+        ],
+        "thumbnail": "https://artworks.thetvdb.com/banners/posters/81472-7_t.jpg"
+    },
+    {
+        "objectID": "series-76666",
+        "aliases": [
+            "Dragonball",
+            "Dragonball",
+            "Dragon Ball (1986)",
+            "Bola de Drac",
+            "Bola de Dragón",
+            "Dragon Ball Latino",
+            "龙珠",
+            "دراغون بول (1986)",
+            "Dragon Ball",
+            "Dragonball",
+            "Dragon Ball (1986)"
+        ],
+        "country": "jpn",
+        "id": "series-76666",
+        "image_url": "https://artworks.thetvdb.com/banners/series/76666/posters/62061588.jpg",
+        "name": "ドラゴンボール",
+        "first_air_time": "1986-02-26",
+        "overview": "山奥で一人で暮らしていた少年・孫悟空の前に、ブルマという女の子が現れた。ブルマは七つ揃えればどんな願いでも叶うというドラゴンボールを探して、世界中を旅していたのだ。今は亡きじいちゃんの遺した不思議な宝珠、それこそがドラゴンボールだったことから、二人の冒険の旅が始まった！　武天老師こと亀仙人、牛魔王と娘のチチ、変身が得意なウーロン、砂漠の盗賊ヤムチャとウーロン…様々な出会いと冒険を繰り返しながら、悟空はドラゴンボールを集めてゆく。ドラゴンボールの力を使って世界征服を企むピラフ一味の野望も、ウーロンの機転（？）によって阻止された。石になって再び世界中に散らばっていったドラゴンボールが、力を取り戻すのは一年後。悟空は今よりもっと強くなるため、小坊主のクリリンと共に、亀仙人のもとで修行に励むことになる。",
+        "primary_language": "jpn",
+        "primary_type": "series",
+        "status": "Ended",
+        "type": "series",
+        "tvdb_id": "76666",
+        "year": "1986",
+        "slug": "dragon-ball",
+        "overviews": {
+            "ara": "تبدء القصة بعدما ما تزوج قوكو من تشي تشي و انجبو طفلاً اطلقوا عليه اسم \"سن-قوهان\" و في نفس اليوم يأتي شخص غريب شعره طويل و يلبس لبس غريب ليدخل في حياتهم، ومن هنا تبدأ المعركة …",
+            "cat": "Aquesta és una llista d'episodis de l'anime Bola de Drac, primera de les tres sèries derivades del manga amb el mateix nom. Aquest anime va ser produït per Toei Animation i estrenat al Japó a Fuji TV el 28 de febrer de 1986 fins al 12 d'abril de 1989. Consta de 153 episodis que adapten els primers 16 volums dels 42 publicats. Està seguida per Bola de Drac Z, que adapta la resta dels volums, i Bola de Drac GT, una història original de l'anime. Aquests 153 episodis estan dividits en diverses sagues o temporades.",
+            "dan": "For længe siden i bjergene opdagede en kampmester kendt som Gohan en mærkelig dreng, som han kaldte Son-Goku. Gohan rejste ham og trænede Son-Goku i kampsport, indtil han døde. Den unge og meget stærke dreng var på egen håndt. En skønne dag mødte Son-Goku en teenagepige ved navn Bulma, hvis søgen efter Dragon Balls bragte hende til hans hjem. Sammen satte de kurs for at finde alle syv Dragon Balls i et eventyr, der ville ændre deres liv for evigt.",
+            "deu": "Son-Goku ist ein kleiner, aber kräftiger Junge mit einem Affenschwänzchen, der völlig unbeschwert fernab der Zivilisation im Urwald lebt. Doch sein Leben wird auf den Kopf gestellt, als eines Tages Bulma, ein Mädchen aus der Stadt, bei ihm auftaucht. Die schöne Bulma ist auf der Suche nach den sagenumwobenen Dragon Balls, denn wer alle sieben der zauberhaften Kugeln besitzt, dem erfüllt der göttliche Drache Shenlong einen Wunsch. Eine der Kugeln hat Son-Goku von seinem Großvater geerbt und Bulma hat bereits zwei weitere gefunden. Die Beiden freunden sich rasch an und beschließen, sich gemeinsam auf die Suche nach den vier verbliebenen Kugeln zu machen. Gemeinsam lernen sie viele neue Freunde kennen und müssen so manches Abenteuer bestehen, um ihr Ziel zu erreichen...",
+            "eng": "Long ago in the mountains, a fighting master known as Gohan discovered a strange boy whom he named Goku. Gohan raised him and trained Goku in martial arts until he died. The young and very strong boy was on his own, but easily managed. Then one day, Goku met a teenage girl named Bulma, whose search for the dragon balls brought her to Goku's home. Together, they set off to find all seven dragon balls in an adventure that would change Goku's life forever. See how Goku met his life long friends Bulma, Yamcha, Krillin, Master Roshi and more. And see his adventures as a boy, all leading up to  Dragonball Z and later  Dragonball GT.",
+            "eus": "Dragoi Bolak Son Goku izena eta tximino isatsa duen mutiko baten abenturak kontatzen ditu. Arte martzialen munduan girotuta dago eta 7 Dragoi Bolen bilaketan oinarritzen da. Kondairak dioenez, Shenron dragoiak 7 Dragoi Bolak biltzen dituenaren edozein gurari betearaziko du. Istorioaren oinarria Mendebaldera Bidaia izeneko txinatar kondaira klasikoa da, nahiz eta bertatik zenbait pertsonaia eta ideia soilik baliatzen diren.",
+            "fra": "SonGoku est un petit garçon doté d'une queue de singe qui vit tout seul dans la montagne depuis la mort de son grand-père. Sa rencontre avec Bulma va alors changer sa vie. Celle-ci est en effet à la recherche des sept boules de cristal qui permettent, une fois réunies, d'appeler le dragon Sheron afin d'exaucer n'importe quel voeu. Tout en recherchant ces fameuses boules, Son Gokû fera la rencontre de Yamcha, un voleur, combattra le roi Pilaf, puis deviendra l'élève du vieux (mais ô combien pervers) Tortue Géniale. Il fera ensuite la connaissance de Krilin et les deux jeunes élèves vont alors s'entraîner dur pour le Grand Tournoi des Arts Martiaux, une manifestation qui a lieu tous les 5 ans...",
+            "glg": "As bólas máxicas conta a infancia e a adolescencia de Son Goku, un neno con gran habilidade para as Artes marciais, que ten un misterioso rabo de mono. Despois do seu encontro con Bulma, parten xuntos na busca das Bólas do Dragón, que teñen a facultade de conceder calquera desexo se se conseguen reunir as sete.",
+            "heb": "גיבור הסדרה סון גוקו - לעיתים גוקו. מאופיין כטוב לב ובעל כישורי הלחימה. הגיע לכדור הארץ בעודו תינוק בתוך קפסולה שמילטה אותו מכוכב וג'יטה שהושמד. בן לגזע הסאייאנים. בשל המכה שחטף בראש בעודו תינוק הפך להיות אדם טוב רודף שלום לעומת הגזע ממנו בא שכל רצונם הוא גרימת הרס וחורבן לזולת.",
+            "hrv": "Goku je dječak koji živi u divljini. On upoznaje devojku po imenu Bulma kojoj se pridružuje u potrazi za Zmajevim kuglama. Ko skupi sve kugle, jedna želja će mu se ostvariti. U toku potrage za kuglama njih dvoje stiču mnoge prijatelje, ali se i bore s raznim zlikovcima koji se žele dokopati kugli. Serijal se u Hrvatskoj emitirao titlovan na Nova TV.",
+            "hun": "A sorozat a kis Songoku életét követi nyomon a gyerekkori kalandoktól kezdve. Kalandjai során rengeteget harcol és végül a világ legerősebb harcművésze lesz. Songoku nincs egyedül kalandjai során. Rengeteg harcos barát és ellenség viszi előrébb a történet fonalát. A hét darab híres sárkánygömb szétszórva található a világban. Amikor összegyűjtik azokat, megidézhető lesz Shen Long, a sárkány, aki teljesít egy kívánságot (néhány feltétellel). Miután teljesül a kívánság, a sárkánygömbök újra szétszóródnak a világban és egy évig nem lehet őket újra használni. A múltban akár több generációnak is le kellett áldoznia, hogy a hét gömböt valaki összegyűjtse. Azonban egy 16 éves Bulma nevű lánynak sikerül készíteni egy \"sárkányradart\", hogy könnyebben megtalálják a gömböket.",
+            "ita": "La storia di Dragon Ball è molto lunga e complessa.... Sicuramente molti già la conoscono, ma per coloro che hanno solamente sentito parlare delle avventure di Goku e non ne conoscono il seguito, sarà un qualcosa di straordinario. Nato dalla mente di Akira Toriyama, Dragon Ball narra la storia di un piccolo ragazzino di nome Son Goku, dalle origini sconosciute. Questo bambino è dotato di una forza straordinaria ed è un esperto di arti marziali, arti che ha imparato dalla persona che lo a trovato.... Il \"nonno\" Son Gohan. L'avventura si svolge in un mondo surreale, in cui si presentano strane condizioni. La tecnologia è molto sviluppata rispetto alla normale realtà, ma spesso si incontrano animali preistorici o piccoli draghi, quindi è un qualcosa di molto fantastico. Il nome Dragon Ball comunque va associato a delle particolari sfere.... Le sette sfere del drago. Queste, una volta riunite, permettono di richiamare un drago enorme che consente di esaudire qualsiasi desiderio... Da queste sfere, inizia la grande avventura di Dragon Ball, che sicuramente vi coinvolgerà nella maniera più assoluta.....\r\n\r\nBulma e Yamcha decidono di fidanzarsi, mentre Goku si reca dal maestro Muten, qui incontra un altro aspirante allievo, il piccolo Crilin. Cominciano così gli estenuanti allenamenti.\r\n\r\nDopo un anno si iscrivono al torneo di arti marziali Tenkaichi. Superano entrambi facilmente le eliminatorie e comincia la fase finale. Crilin batte facilmente il puzzolente Bacterian, e Yamcha viene sconfitto dal misterioso Jackie Chun. Il terzo scontro è tra Lan Fan e Nam, che ne esce vincitore. Ora è il turno di Goku, che vince il mostruoso Giran. In semifinale Crilin è sconfitto da Jackie Chun, che sa usare la Kamehameha, mentre Goku batte il forte Nam. Prima della finale si scopre che Jackie Chun è in realtà Muten, travestitosi per battere i suoi allievi, perché non si montino la testa. Lo scontro finale è estenuante, continua fino a sera e quando Goku sta avendo la",
+            "jpn": "山奥で一人で暮らしていた少年・孫悟空の前に、ブルマという女の子が現れた。ブルマは七つ揃えればどんな願いでも叶うというドラゴンボールを探して、世界中を旅していたのだ。今は亡きじいちゃんの遺した不思議な宝珠、それこそがドラゴンボールだったことから、二人の冒険の旅が始まった！　武天老師こと亀仙人、牛魔王と娘のチチ、変身が得意なウーロン、砂漠の盗賊ヤムチャとウーロン…様々な出会いと冒険を繰り返しながら、悟空はドラゴンボールを集めてゆく。ドラゴンボールの力を使って世界征服を企むピラフ一味の野望も、ウーロンの機転（？）によって阻止された。石になって再び世界中に散らばっていったドラゴンボールが、力を取り戻すのは一年後。悟空は今よりもっと強くなるため、小坊主のクリリンと共に、亀仙人のもとで修行に励むことになる。",
+            "kor": "'서유기'를 현대화해 재미있게 다시 엮은 만화영화. 손오공이 말괄량이 부르마, 부끄럼장이 야무치, 오룡, 푸알과 무천도사와 함께 드래곤 볼을 찾아가는 길에 생기는 모험 이야기. 총 153편으로 구성되어 있다. 아름다운 숲속에서 자유롭게 살고있는 손오공은 어느날 부르마를 만나게 되어 ‘신용의 전설’ 즉, 드래곤 볼 7개를 모으면 어떤 소원이라도 이루어진다는 사실을 알게 된다. 부르마는 멋진 남자를 만나려고 드래곤 볼을 찾으러 손오공과 떠난다. 드래곤 볼에 관련된 여러가지 사건을 겪으면서, 할아버지의 친구였던 무천도사를 만난다. 그리고 여자에게 부끄럼을 많이 타는 야무치와 변신할 수 있는 재주를 가진 오룡과 푸알을 만나 드래곤 볼을 찾아 떠난다. 결국 7개의 드래곤 볼은 모두 모이게 되지만, 피파후에게 잡히고 부르마는 일행, 찬란한 7색을 품어내는 드래곤 볼을 향한 피파후의 소원은 과연.",
+            "pol": "Dragon Ball opowiada o losach Sona Goku, który otrzymal jako niemowlę misje zniszczenia ziemi jednak z powodu awarii jego statku nie wykonał on zadania. Zostal przygarnięty przez ziemianina. Akcja rozpoczyna się, gdy mieszkający samotnie w górach poznaje Bulmę, córkę wybitnego naukowca. Posiadajac smoczą kulę dowiaduje się, że gdy komuś uda się zebrać wszystkie siedem, będzie miał prawo do wezwania Shen Longa - Boskiego Smoka, który spełni każde życzenie. Razem wyruszają w podróż pełną przygód w celu ich odnalezienia.",
+            "por": "Goku foi encontrado por Gohan quando era apenas um bebê e o bondoso velhinho o adotou como neto. Gohan deu de presente a Goku a esfera de quatro estrelas. Quando conhece Bulma, Goku fica sabendo da lenda das esferas do dragão. Segundo a lenda, quem reunir as sete esferas invocará Shen Long, o dragão guardião, cujo poder é de realizar qualquer desejo.",
+            "pt": "Goku foi encontrado por Gohan quando era apenas um bebê e o bondoso velhinho o adotou como neto. Gohan deu de presente a Goku a esfera de quatro estrelas. Quando conhece Bulma, Goku fica sabendo da lenda das esferas do dragão. Segundo a lenda, quem reunir as sete esferas invocará Shen Long, o dragão guardião, cujo poder é de realizar qualquer desejo!",
+            "rus": "Одинокий мальчик в горах живёт со своим дедушкой. Мальчик не совсем простой: он очень силён, да в добавок у него есть хвост. Однажды он встречается с девочкой Бульмой, которая ищет драконий жемчуг. Если собрать все семь жемчужин раскиданных по миру, появится повелитель драконов Шен Лон и выполнит одно любое твоё желание. С этих пор мальчик Сон Гоку и Бульма начинают своё весёлое и опасное приключение. На их пути встанут: застенчивый красавчик, озабоченный свин и развратный черепаший отшельник и многие другие.",
+            "spa": "Dragon Ball narra la historia de Goku, un excepcional niño que llegó a la Tierra en una cápsula durante una noche tormentosa. Sin saber nada de su pasado, un anciano lo cuidó como su nieto hasta los ocho años. Después de morir su abuelo, Goku accede a la Kame House, lugar donde un estrambótico anciano le convertirá en un campeón de artes marciales. Conocerá por el camino a Bulma, una muchacha obsesionada con algo denominado las Bolas de Dragón, y Krilin, su compañero de aventuras, entre otros.",
+            "srp": "Гоку је дечак који живи у дивљини. Он упознаје девојку по имену Булма којој се придружује у потрази за Змајевим куглама. Ко скупи све кугле, једна жеља ће му се остварити. У току потраге за куглама њих двоје стичу многе пријатеље, али се и боре с разним зликовцима који се желе докопати кугли.",
+            "tur": "Goku, ormanda ufak bir kulübede, ölmüş büyük babası Son Gohan'nın ona bıraktığı dört yıldızlı Ejder Topu'yla yaşamaktadır.\r\nGoku, bu Ejder Topu'nu, büyük babası zannetmektedir. Bir gün bu ejder toplarını arayan Bulma adında bir kız gelir ve Goku'ye Ejder Toplarının büyüsünü anlatır; \"Yedi tane Ejder Topu varmış. Bunların içindeki yıldızlar sayesinde parıl parıl parlıyorlarmış.\r\nBir taneden yedi taneye kadar hepsini toplarsan ve doğru ilahiyi söylersen, Ejder Shenlong, gelip senin herhangi bir isteğini yerine getirirmiş.\r\nAma yalnızca bir tanesini!!\" Bunun üzerine Goku ve Bulma bol aksiyon ve komedili uzun bir maceraya atılırlar ve Ejder Toplarını aramaya başlarlar.",
+            "zho": "该作品是一部讲述了将散落在世界各地的七颗珠子全部集齐后，便可以实现任何一个愿望的秘宝—龙珠，和以主人公孙悟空为中心所展开的关于冒险，努力，热血，友情于一体的长篇漫画。"
+        },
+        "translations": {
+            "ara": "دراغون بول",
+            "cat": "Bola de Drac",
+            "dan": "Dragon Ball",
+            "deu": "Dragon Ball",
+            "eng": "Dragon Ball",
+            "eus": "Dragoi Bola",
+            "fra": "Dragon Ball",
+            "glg": "As bolas máxicas",
+            "heb": "דרגון בול",
+            "hrv": "Zmajeva kugla",
+            "hun": "Dragon Ball",
+            "ita": "Dragon Ball",
+            "jpn": "ドラゴンボール",
+            "kor": "드래곤볼",
+            "pol": "Dragon Ball",
+            "por": "Dragon Ball",
+            "pt": "Dragon Ball",
+            "rus": "Драконий жемчуг",
+            "spa": "Dragon Ball",
+            "srp": "Змајева кугла",
+            "tur": "Ejder Topu",
+            "zho": "七龙珠"
+        },
+        "network": "Fuji TV",
+        "remote_ids": [
+            {
+                "id": "10.5240/B0F7-0B5D-95F6-3A2C-BFF3-T",
+                "type": 13,
+                "sourceName": "EIDR"
+            },
+            {
+                "id": "tt0088509",
+                "type": 2,
+                "sourceName": "IMDB"
+            },
+            {
+                "id": "12609",
+                "type": 12,
+                "sourceName": "TheMovieDB.com"
+            }
+        ],
+        "thumbnail": "https://artworks.thetvdb.com/banners/series/76666/posters/62061588_t.jpg"
+    },
+    {
+        "objectID": "series-79275",
+        "aliases": [
+            "Dragonball GT"
+        ],
+        "country": "jpn",
+        "id": "series-79275",
+        "image_url": "https://artworks.thetvdb.com/banners/v4/series/79275/posters/607404343f360.jpg",
+        "name": "ドラゴンボールGT",
+        "first_air_time": "1996-02-07",
+        "overview": "天界に封印されていたもう一つのドラゴンボールの封印がとかれたことから、子供の姿に戻った悟空、トランクス、そして成長した孫娘のパンの新たな冒険がはじまる！\r\n1年でダークドラゴンボールそろえないと、地球が消滅しちゃう～!!　新しい冒険、新登場のキャラクターや新たな強敵、そして、アニメオリジナルならではの夢の対決も実現！\r\nそれが『ドラゴンボールＧＴ』！！",
+        "primary_language": "jpn",
+        "primary_type": "series",
+        "status": "Ended",
+        "type": "series",
+        "tvdb_id": "79275",
+        "year": "1996",
+        "slug": "dragon-ball-gt",
+        "overviews": {
+            "cat": "La història continua després del final de Dragon Ball Z, una dècada després de la derrota absoluta sobre el Monstre Buu. S'inicia quan Pilaf aconsegueix trobar les boles de drac i converteix Son Goku en un nen. Les esmentades Boles de drac de l'estrella negra s'escampen per l'univers sencer i han de ser recollides en un termini menor d'un any o, al contrari, el planeta on es va demanar el desig, és a dir, la Terra, serà destruït.",
+            "deu": "Die japanische Animeserie \"Dragonball GT\" ist die Nachfolgeserie von \"Dragonball Z\", welche wiederum eine Fortsetzung der ursprünglichen Serie \"Dragonball\" war. Es geht wieder um die Abenteuer des Kriegers Son-Goku, der jedoch gleich zu Beginn der Serie von seinem Widersacher Prinz Pilaw mit Hilfe der sieben Dragonballs in ein Kind zurückverwandelt wird. Die Dragonballs verteilen sich daraufhin im gesamten Universum. Aber nur wenn Son-Goku sie alle rechtzeitig wiederfindet, hat er die Chance, seinen alten Körper zurückzubekommen und dabei außerdem noch die Zerstörung der Welt zu verhindern. In der ersten Hälfte der Serie stehen Son-Goku seine Freunde Pan und Trunks zur Seite, während es in der zweiten Hälfte ein Wiedersehen mit den meisten anderen Hauptcharakteren der Vorgängerserien gibt.",
+            "eng": "Ten years have passed since Goku left his friends and family to hone his skills. But Goku soon finds himself helpless against the mystical power of the Dragon Balls and an accidental wish made by the devious Emperor Pilaf. His desire; that Goku once again become a child! Not daunted by this small setback, Goku, together with Trunks, and his own granddaughter Pan, blast off into the outer reaches of space in search of the mysterious Blackstar Dragon Balls. But these Dragon Balls have a fatal secret: if not collected within one year Earth will be destroyed.",
+            "eus": "Istorioak Dragoi Bola Zn Boo Ahaltsua garaitu eta 10 urtera jarraitzen du. Pilaf-ek Erabateko Dragoi Bolak aurkitu eta Son Goku haur bihurtzean hasten da. Dragoi Bola hauek galaxian zehar sakabatzen dira eta urtebete baino lehen bil du behar dira, bestela Lurra lehertu egingo da.",
+            "fra": "Des années après Dragon Ball Z, tout semblait en paix mais Pilaf réapparaît et s'empare des boules de cristal...\r\nUne nouvelle odyssée commence pour Songoku, Pan, Trunks et leurs amis. Ils vont rencontrer de nouveaux ennemis, connaître la peur, l'angoisse et la défaite mais leur opiniâtreté légendaire est aussi au rendez-vous !",
+            "heb": "פולשים שחודרים למקדש השמיימי של דנדה, מנסים לגנוב את כדורי הדרגון בול השחורים שיצר גוד. הפולשים קוראים לדרגון במטרה לבקש ממנו שליטה בעולם, אבל אז סון גוקו מנסה לעצור את הפולשים והם מבקשים מהדרקון של כדורי הדרגון בול שיהפוך את סון גוקו לילד קטן. סון גוקו הופך לילד קטן ושבעת כדורי הדרגון בול השחורים מתפזרים ברחבי היקום. סון גוקו חוזר לכדור הארץ, אבל אז מסתבר לו שאם לא יאסוף את שבעת הכדורים תוך שנה, כדור הארץ ייהרס. סון גוקו יוצא יחד עם טראנקס ופאן למסע אל היקום כדי לחפש אחר הכדורים.\r\n",
+            "hun": "Egy varázslat következményeként Son Goku gyerekké válik. Unokájával (aki alig ismer rá) és Trunksal (aki az örök ellenfél Vegita és Bulma fia) bejárják a galaxisokat, hogy visszaszerezzék a fekete csillagos gömböket, mielőtt a Föld felrobban. Erős ellenfelek után megmentik a Földet, de a kristálygömbök negatív sárkánya megtámadja a bolygót. A Föld ismét veszélybe kerül és csak Son Goku és barátai tehetnek valamit ellene.",
+            "ita": "Dragon Ball GT è l'ultimo filone narrativo della serie di manga e anime Dragon Ball, in cui Goku ha raggiunto l'età di circa 50 anni. Essa ha inizio al ritorno di Goku dall'allenamento con Ub, reincarnazione del Majin Bu originale, con cui era partito alla fine della serie Z.\r\nGT sta probabilmente per \"Grand (o Galaxy) Tour\", in riferimento al viaggio nell'universo alla ricerca delle sfere o \"Goku Transformation\" secondo gli avvenimenti che accadono all'inizio della serie, per i quali viene trasformato in un bambino.",
+            "jpn": "天界に封印されていたもう一つのドラゴンボールの封印がとかれたことから、子供の姿に戻った悟空、トランクス、そして成長した孫娘のパンの新たな冒険がはじまる！\r\n1年でダークドラゴンボールそろえないと、地球が消滅しちゃう～!!　新しい冒険、新登場のキャラクターや新たな強敵、そして、アニメオリジナルならではの夢の対決も実現！\r\nそれが『ドラゴンボールＧＴ』！！",
+            "kor": "드래곤볼을 모으기 위해 우주로 여행을 떠나면서 벌어지는 이야기",
+            "por": "O ponto de partida acontece quando Pilaf e o seu grupo tomam posse das bolas do Dragão das Estrelas Negras. Estas congregam um poder incomensurável, cujos detentores parecem querer utilizar com objectivos bem traçados. Mas um erro acaba por acontecer, levando a uma consequência no mínimo “inusitada”, uma vez que Goku volta a ser uma criança.\r\nPara voltar à sua forma normal, este será obrigado a viajar por toda a galáxia de modo a que consiga reaver as bolas que entretanto foram levadas. E a missão não se adivinha fácil, pois novos inimigos aproveitarão este cenário, pois julgam estar numa posição privilegiada para derrotarem Goku e finalmente cumprirem os seus planos.\r\nMas abre-se, de igual modo, uma janela para que ameaças obscuras do passado surjam em força e que se formem alianças “imprevisíveis”, mas comuns no desejo de verem concretizados os seus anseios.",
+            "pt": "A história continua após o fim de Dragon Ball Z, uma década depois da vitória dos guerreiros Z sobre Majin Boo. Tudo Começa quando Pilaf encontra as Esferas do Dragão Originais e as usa para transformar Son Goku em uma criança. Estas Esferas do Dragão são espalhadas pelo universo inteiro e devem ser recolhidas no prazo inferior a um ano, ou o planeta terra será destruído.",
+            "rus": "Один из врагов Гоку использовал очередной набор жемчужин и пожелал, чтобы Гоку снова стал подростком. Чтобы вернуть себе свой прежний возраст, Гоку вместе с друзьями отправляется в новое странствие в поисках драконьих жемчужин…",
+            "spa": "Han pasado diez años desde que Goku dejó a sus amigos y familiares para perfeccionar sus habilidades. Pero Goku pronto se encuentra indefenso contra el poder místico de las Dragon Balls y un deseo accidental hecho por el malvado Emperador Pilaf. Su deseo; ¡que Goku una vez más se convierta en un niño! No intimidado por este pequeño revés, Goku, junto con Trunks y su propia nieta Pan, despegan hacia los confines del espacio en busca de las misteriosas Blackstar Dragon Balls. Pero estas Dragon Balls tienen un secreto fatal: si no se recogen dentro de un año, la Tierra será destruida.",
+            "zho": "孙悟空和转世的欧布进行了培训的五年，经过了五十岁的欧布受到孙悟空的教诲，成功地成为了伟大的精英英战士。此时一心想征服世界的毕拉夫与阿修小梅思 一伙人闯入神殿里窃得上一代天神和笛子子大魔王分体前创造的终极龙珠。 集齐终极龙珠的话，最初许愿的星球可能会被自动毁灭。为了让地球逃过爆炸的厄运，孙悟空与孙女阿包、杜拉格斯联结上宇宙船踏上寻找终极龙珠以拯救地球的宇宙 冒险之旅。"
+        },
+        "translations": {
+            "cat": "Bola de drac GT",
+            "deu": "Dragon Ball GT",
+            "eng": "Dragon Ball GT",
+            "eus": "Dragoi Bola GT",
+            "fra": "Dragon Ball GT",
+            "heb": "דרגון בול ג'י-טי",
+            "hun": "Dragon Ball GT",
+            "ita": "Dragon Ball GT",
+            "jpn": "ドラゴンボールGT",
+            "kor": "드래곤볼 GT",
+            "por": "Dragon Ball GT",
+            "pt": "Dragon Ball GT",
+            "rus": "Драгонболл Джи-Ти",
+            "spa": "Dragon Ball GT",
+            "zho": "龙珠GT"
+        },
+        "network": "Fuji TV",
+        "remote_ids": [
+            {
+                "id": "tt0139774",
+                "type": 2,
+                "sourceName": "IMDB"
+            },
+            {
+                "id": "EP00564319",
+                "type": 3,
+                "sourceName": "TMS (Zap2It)"
+            },
+            {
+                "id": "12697",
+                "type": 12,
+                "sourceName": "TheMovieDB.com"
+            }
+        ],
+        "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/79275/posters/607404343f360_t.jpg"
+    },
+    {
+        "objectID": "series-347734",
+        "aliases": [
+            "Doragon Bōru Hirozu",
+            "Doragon Bōru Hīrōzu",
+            "Supa Doragon Bōru Hirozu",
+            "Sūpā Doragon Bōru Hīrōzu",
+            "Sūpā Doragon Bōru Hīrōzu",
+            "SDBH",
+            "Dragon Ball Heroes"
+        ],
+        "country": "jpn",
+        "id": "series-347734",
+        "image_url": "https://artworks.thetvdb.com/banners/series/347734/posters/62109531.jpg",
+        "name": "スーパードラゴンボールヒーローズ",
+        "first_air_time": "2018-07-01",
+        "overview": "ユニバースミッションとリンクしたストーリーとなっており、『ドラゴンボール超』と『ドラゴンボールオンライン』および『ドラゴンボール ゼノバース』シリーズを取り込んだ、原作ともテレビシリーズとも設定の異なるオリジナルストーリーとなっている。詳しい時間軸は不明だがビルスやウイス、未来トランクスが登場していたり、悟空の口からジレンの話があったり、過去にフュージョンをしたことがあるため、少なくとも『ドラゴンボール超』の力の大会やブロリーとの戦いを終えた後となっている。",
+        "primary_language": "jpn",
+        "primary_type": "series",
+        "status": "Ended",
+        "type": "series",
+        "tvdb_id": "347734",
+        "year": "2018",
+        "slug": "dragon-ball-heroes",
+        "overviews": {
+            "deu": "Nach den Ereignissen von Dragon Ball Super: Broly, Goku und Vegeta wollten zusammen mit Future Trunks auf Beerus Planeten trainieren, nachdem er und Future Mai in ihrer Zeitmaschine zur gegenwärtigen Zeitlinie zurückgekehrt waren. Doch Future Mai erzählt, dass Future Trunks von einer unbekannten Truppe gefangen genommen wurde. Eine mysteriöse Gestalt namens Fu bestätigt, dass Future Trunks auf dem \"Gefängnis-Planeten\" festgehalten wird. Goku und Vegeta erreichen den Planeten mit Future Mai und treffen dort auf die Zeitpatrouille-Mitglieder Xeno Goku und Xeno Vegeta, die ausgesandt wurden, um Fu festzunehmen.",
+            "eng": "Trunks returns from the future to train with Goku and Vegeta. However, he disappears without warning. Then the mysterious Fu bursts in, telling them that Trunks has been imprisoned in the Prison Planet, a mysterious complex in an unknown place in the universes. The group seeks the dragon balls to free Trunks, but an endless battle awaits them! Will Goku and the others rescue Trunks and escape the Prison Planet?",
+            "fra": "Trunks revient du futur, une nouvelle fois, pour s’entraîner auprès de Gokū et Vegeta. Mais Trunks disparait mystérieusement.\r\nUn mystérieux personnage nommé « Fu » apparaît ensuite et explique que Trunks est retenu prisonnier dans un endroit entre les Univers, nommé « planètes prisons » et que personne ne semble connaître. Pour s’échapper de cet endroit il va falloir réunir les Dragon Balls et de nombreuses batailles transcendantes les attendent ! Gokū et les siens pourront-ils secourir Trunks et s’échapper des planètes prisons ?!",
+            "heb": "טראנקס חוזר מהעתיד להתאמן עם גוקו ווגטה. עם זאת, הוא נעלם ללא אזהרה מוקדמת. ואז פו המסתורי מתפרץ פנימה, מספר להם שטראנקס נכלא בכוכב הכלא, צכלול מסתורי במקום לא ידוע ביקומים. הקבוצה מחפשת את כדורי הדרקון כדי לשחרר את טראנקס, אך מחכה להם קרב אינסופי! האם גוקו והאחרים יצילו את טראנקס ויברחו מכוכב הכלא?",
+            "ita": "Super Dragon Ball Heroes è una serie ONA basata sul videogioco Dragon Ball Heroes. La serie - non canonica - segue le avventure dei più famosi eroi ed antagonisti di Dragon Ball, presentando scontri epici con rivali vecchi e nuovi.",
+            "jpn": "ユニバースミッションとリンクしたストーリーとなっており、『ドラゴンボール超』と『ドラゴンボールオンライン』および『ドラゴンボール ゼノバース』シリーズを取り込んだ、原作ともテレビシリーズとも設定の異なるオリジナルストーリーとなっている。詳しい時間軸は不明だがビルスやウイス、未来トランクスが登場していたり、悟空の口からジレンの話があったり、過去にフュージョンをしたことがあるため、少なくとも『ドラゴンボール超』の力の大会やブロリーとの戦いを終えた後となっている。",
+            "por": "Goku e Vegeta treinam juntos quando são visitados mais uma vez pelo Trunks do Futuro. Mas, de repente, Trunks desaparece, e o misterioso Fu surge, e diz que Trunks foi levado para o Planeta Prisão, que foi criado entre os universos. Para que ele seja libertado, Goku, Vegeta e os seus amigos precisarão reunir as esferas do dragão, além de travarem grandes batalhas. Será que eles vão conseguir?",
+            "pt": "Goku e Vegeta treinam juntos quando são visitados mais uma vez pelo Trunks do Futuro. Mas, de repente, Trunks desaparece, e o misterioso Fu surge, e diz que Trunks foi levado para o Planeta Prisão, que foi criado entre os universos. Para que ele seja libertado, Goku, Vegeta e seus amigos precisarão reunir as esferas do dragão, além de travarem grandes batalhas. Será que eles vão conseguir?",
+            "spa": "Trunks regresa del futuro para entrenar con Goku y Vegeta. Sin embargo, desaparece sin previo aviso. Entonces el misterioso Fu irrumpe, diciéndoles que Trunks ha sido encarcelado en el Prison Planet, un misterioso complejo en un lugar desconocido en los universos. El grupo busca las bolas de dragón para liberar a Trunks, ¡pero les espera una batalla sin fin! ¿Goku y los demás rescatarán a Trunks y escaparán del Prison Planet?",
+            "zhtw": "超級激烈戰在一個神秘的「監獄星球」中展開！\r\n\r\nSon Goku：Xeno（超級賽亞人4）Yu Goku（超級賽亞人神超級賽亞人）！\r\n\r\n被監獄行星監禁的命運是......！？\r\n\r\n監獄星球的故事從這裡開始！"
+        },
+        "translations": {
+            "deu": "Super Dragon Ball Heroes",
+            "eng": "Super Dragon Ball Heroes",
+            "fra": "Super Dragon Ball Heroes",
+            "heb": "סופר דרגון בול הירוס",
+            "ita": "Super Dragon Ball Heroes",
+            "jpn": "スーパードラゴンボールヒーローズ",
+            "kor": "슈퍼 드래곤볼 히어로즈",
+            "por": "Super Dragon Ball Heroes",
+            "pt": "Super Dragon Ball Heroes",
+            "spa": "Super Dragon Ball Heroes",
+            "zho": "超级龙珠英雄",
+            "zhtw": "超級七龍珠群雄：監獄惑星編"
+        },
+        "network": "YouTube",
+        "remote_ids": [
+            {
+                "id": "https://dragonball.fandom.com/wiki/Super_Dragon_Ball_Heroes_(anime)",
+                "type": 8,
+                "sourceName": "Fan Site"
+            },
+            {
+                "id": "tt8433216",
+                "type": 2,
+                "sourceName": "IMDB"
+            },
+            {
+                "id": "http://www.carddass.com/dbh/sdbh/prison_planet/",
+                "type": 4,
+                "sourceName": "Official Website"
+            },
+            {
+                "id": "80020",
+                "type": 12,
+                "sourceName": "TheMovieDB.com"
+            },
+            {
+                "id": "Super_Dragon_Ball_Heroes_(web_series)",
+                "type": 24,
+                "sourceName": "Wikipedia"
+            },
+            {
+                "id": "DB_HEROES",
+                "type": 6,
+                "sourceName": "X (Twitter)"
+            }
+        ],
+        "thumbnail": "https://artworks.thetvdb.com/banners/series/347734/posters/62109531_t.jpg"
+    },
+    {
+        "objectID": "series-88031",
+        "aliases": [
+            "Dragon Ball Z Kai",
+            "Dragonball Z Kai",
+            "Dragon Ball Kai",
+            "Dragon Ball Kai",
+            "Dragon Ball Z Kai",
+            "龍珠改"
+        ],
+        "country": "jpn",
+        "id": "series-88031",
+        "image_url": "https://artworks.thetvdb.com/banners/posters/88031-3.jpg",
+        "name": "ドラゴンボール改",
+        "first_air_time": "2009-04-05",
+        "overview": "ドラゴンボールZのデジタルリマスター版。Zアニメオリジナル部分をカット、原作により近い内容となっている。\r\nサイヤ人編から最終話まで。\r\n悟空とその仲間たちが、サイヤ人、フリーザ、人造人間、セル、そして魔人ブーから地球を守る熱い戦い！",
+        "primary_language": "jpn",
+        "primary_type": "series",
+        "status": "Ended",
+        "type": "series",
+        "tvdb_id": "88031",
+        "year": "2009",
+        "slug": "dragon-ball-kai",
+        "overviews": {
+            "ara": "تبدأ أحداث قصة مسلسل دراغون بول زد كاي بوصول السايان غوكو إلى كوكب الأرض بعد أن تم إرساله من كوكب الأمير فيجيتا والذي يدعى بكوكب السايان. عندما يصل بطلنا غوكو إلى الأرض يسقط في أحد الأنهار بالصدفة يقابله عجوز كبير في السن يدعى سان جوهان من أهل الأرض، ويُعجب بغوكو كثيراً ويقرر أن يقوم بتربيته. تربى غوكو على يده ووجد صديقاً حميماً له يدعى كيلان, ومن هنا يبدأ مسلسل دراجون بول زد بداية قويه حين أصبح غوكو يافعاً وقوياً يدافع عن أهالي الأرض ويقاتل الأشرار الذين يأتون من كواكب مختلفة.",
+            "cat": "Torna amb en Goku i els seus amics a una serie de batalles cósmiques! Redoblat, retallat i netejat des de l'animació original de la serie de 1989. Els arcs han estat redefinits per seguir millor al manga el qual està basat. La serie també té un nou opening i ending. A la serie, l'artista marcial Goku i els seus amics lluiten contra enemics cada cop més poderosos per defensar el mon del mal. Podran els defensors de ls terra derrotar els dimonis, extraterrestres i altres enemics?",
+            "deu": "Dragonball Kai ist eine \"aufgefrischte\" Version der alten Dragonball Z-Folgen, die am 5. April 2009 um 9:00 auf dem japanischen Fernsehsender Fuji TV ihre Premiere feierte. Zu den Änderungen der als \"Akira Toriyama Original Cut\" beworbenen Serie gehören der Wegfall der meisten Filler-Szenen, neu aufgenommene Dialoge, neue Musik, erneuerte Sound-Effekte und neue digitale Effekte. Die Handlung der Neufassung beginnt mit Inhalten aus dem Fernsehspecial, das in Deutschland auf DVD unter dem Titel \"Das Bardock Special\" erschien. Es zeigt die Vorgeschichte um die Vernichtung der Saiyajin durch Freezer und enthält zur Einleitung auch Footages aus der ersten Fernsehserie, ehe die eigentliche Handlung zum gleichen Zeitpunkt wie im Original einsetzt.",
+            "eng": "Rejoin Goku and his friends in a series of cosmic battles!  Toei has redubbed, recut, and cleaned up the animation of the original 1989 animated series.  The show's story arc has been refined to better follow the comic book series on which it is based.  The show also features a new opening and ending.\r\n\r\nIn the series, martial artist Goku, and his various friends, battle increasingly powerful enemies to defend the world against evil.  Can Earth's defender defeat demons, aliens, and other villains?",
+            "fra": "Nouvelle version de Dragon Ball Z remasterisée en HD. La série d'origine réadaptée en une centaine d'épisodes. Dragon Ball Z reprend l'histoire de Sangoku plusieurs années après son mariage avec Chichi. Le couple a un fils nommé Sangohan en hommage à son arrière grand-père du même nom. \r\nUn jour, Raditz atterrit sur la Terre et déclare qu'il est le frère de Sangoku. Il appartient au peuple des Sayajins, des guerriers intersidéraux mettant l'univers à feu et à sang. Leur planète, la planète Vegeta, a été détruite et il ne reste plus que quatre Sayajins purs : Sangoku, Raditz et ses complices partis en mission, Vegeta et Nappa. Sangoku refuse de s'associer à Raditz qui décide alors d'enlever Sangohan.\r\nC'est ici que commence cette grande aventure...",
+            "ita": "Dragon Ball Kai è stato completamente restaurato e computerizzato in 3D ed HD (versione alta qualità tridimensionale). Inoltre, esso segue con grande fedeltà la storia originale del manga Dragon Ball creato nel 1984 dal mangaka Akira Toriyama. Per rendere possibile ciò sono stati, dunque, tolti i cosiddetti episodi \"filler\", episodi non tratti dal manga, ma creati dalla casa produttrice (in questo caso la Toei Animation) per dare all'autore il tempo necessario alla creazione di nuovi capitoli che sarebbero poi stati trasformati in episodi televisivi. Oltre ad eliminare i filler, la Toei Animation ha deciso anche di accorciare i combattimenti e i lunghi discorsi prima delle battaglie nell'intento di avere un anime più scorrevole e fedele all'opera originale.",
+            "jpn": "ドラゴンボールZのデジタルリマスター版。Zアニメオリジナル部分をカット、原作により近い内容となっている。\r\nサイヤ人編から最終話まで。\r\n悟空とその仲間たちが、サイヤ人、フリーザ、人造人間、セル、そして魔人ブーから地球を守る熱い戦い！",
+            "kor": "드래곤볼 카이(일본어: ドラゴンボール改)는 토리야마 아키라의 만화인 드래곤볼을 원작으로 한 TV판 애니메이션이다. 초기 시리즈인 드래곤볼 이후의 스토리를 그리며, 2012년에는대한민국에서 애니원, 챔프TV, 애니박스에서 방영하고 있다.2015년,현재,애니원,애니박스등 드래곤볼 카이3기가 방영되고있다\r\n\r\n변화점으로는 Z 방영 당시의 늘어지는 전개와 불필요한 각본 등을 잘라내고, 보다 원작의 빠른 전개에 가까운 구성으로 바꾸었으며, 화면 상의 비율을 위아래를 잘라내어 16:9로 맞추었으며, 성우들의 재녹음도 이루어졌다. 극소수의 장면에서는 디지털 기술을 사용해서 새로 그렸으나 일부분 뿐으로 대부분의 장면은 필름 영상을 재사용한 것에 지나지 않는다.",
+            "pol": "Dalsze losy dzielnego Son Goku i jego przyjaciół, którzy bronią Ziemi przed rozmaitymi zagrożeniami. Od czasu ostatniego turnieju sztuk walki minęło pięć lat. Goku i Chi-chi mają czteroletniego synka, Son Gohana. Rodzina mieszka w małej wiosce i wiedzie spokojne, szczęśliwe życie. Chłopiec, ku uciesze matki, interesuje się przede wszystkim nauką, choć jego ojciec wolałby, aby bardziej polubił sztuki walki. Niestety, ta sielanka kończy się, gdy na Ziemię przybywa brat Goku, który chce zmusić go do wspólnego podbicia planety. Między braćmi dochodzi do walki na śmierć i życie.",
+            "por": "Nessa nova versão do Anime Dragon Ball Z Remasterizado e adaptado para alta definição, conta a história de Goku vários anos depois de seu casamento com Chichi. O casal tem um filho chamado Gohan homenagem ao seu bisavô com o mesmo nome. Um dia, Raditz pousou na Terra e diz que ele é irmão de Goku. Ele pertence ao povo dos Sayajin. Seu planeta, o Planeta Vegeta, foi destruído e resta apenas quatro Sayajin puro: Goku, Raditz e seus cúmplices Vegeta e Nappa. Goku se recusa a aderir Raditz, que decide, então, para raptar Gohan. Aqui começa a grande aventura",
+            "pt": "Nessa nova versão do Anime Dragon Ball Z Remasterizado e adaptado para alta definição, conta a história de Goku vários anos depois de seu casamento com Chichi. O casal tem um filho chamado Gohan homenagem ao seu bisavô com o mesmo nome. Um dia, Raditz pousou na Terra e diz que ele é irmão de Goku. Ele pertence ao povo dos Sayajin. Seu planeta, o Planeta Vegeta, foi destruído e resta apenas quatro Sayajin puro: Goku, Raditz e seus cúmplices Vegeta e Nappa. Goku se recusa a aderir Raditz, que decide, então, para raptar Gohan. Aqui começa a grande aventura",
+            "rus": "Dragon Ball Kai - это отреставрированная версия Dragon Ball Z, сделанная в честь двадцатилетия сериала, который транслировался с 1989 по 1996 год. Dragon Ball Kai был полностью переозвучен. Так же он избавился от лишнего контента и теперь следует точно по манге без отступлений.\r\n\r\n\"Dragon Ball\" - это история о Сон Гоку, младенце с другой планеты. Будучи ребёнком он был отправлен на Землю с целью уничтожить все живое на планете по мере своего взросления, но из за травмы полученной в детстве, эта гинетически заложенная в нем информация исчезла. Нашел и воспитал его старик-отшельник после смерти которого Гоку рос один в горах.\r\n\r\nDragon Ball Kai расскажет нам о уже взрослом Гоку. Он женился на красавице Чи-Чи. У них родился прекрасный сын, которого назвали Гохан - в честь воспитавшего Гоку дедушки. Жизнь идёт своим чередом, но...",
+            "spa": "(Versión de Dragon Ball Z Remasterizada) Goku y sus amigos luchan para salvar al planeta del Príncipe Vegeta y sus súbditos, que son los últimos miembros de una raza alienígena, los Saiyan."
+        },
+        "translations": {
+            "ara": "دراغون بول زد كاي",
+            "cat": "Bola de Drac Z Kai",
+            "deu": "Dragon Ball Kai",
+            "eng": "Dragon Ball Kai",
+            "fra": "Dragon Ball Z Kai",
+            "heb": "דרגון בול קאי",
+            "ita": "Dragon Ball Kai",
+            "jpn": "ドラゴンボール改",
+            "kor": "드래곤볼 카이",
+            "pol": "Dragon Ball Z Kai",
+            "por": "Dragon Ball Kai",
+            "pt": "Dragon Ball Z Kai",
+            "rus": "Драконий Жемчуг Кай",
+            "spa": "Dragon Ball Kai",
+            "zho": "龙珠改"
+        },
+        "network": "Fuji TV",
+        "remote_ids": [
+            {
+                "id": "tt1409055",
+                "type": 2,
+                "sourceName": "IMDB"
+            },
+            {
+                "id": "61709",
+                "type": 12,
+                "sourceName": "TheMovieDB.com"
+            }
+        ],
+        "thumbnail": "https://artworks.thetvdb.com/banners/posters/88031-3_t.jpg"
+    },
+    {
+        "objectID": "series-440820",
+        "aliases": [
+            "Dragon Ball: Daima",
+            "Dragon Ball Daima",
+            "Dragon Ball Daima",
+            "كرات التنين دايما",
+            "Dragonball Daima"
+        ],
+        "country": "jpn",
+        "id": "series-440820",
+        "image_url": "https://artworks.thetvdb.com/banners/v4/series/440820/posters/669da50441a97.jpg",
+        "name": "ドラゴンボールDAIMA",
+        "first_air_time": "2024-10-11",
+        "overview": "その物語では、悟空、ベジータ、ブルマ、そしてシリーズ全体の他のキャラクターが通常よりも若くなります。ただし、これは、元のシリーズの終了後に悟空が子供に戻るドラゴンボール GT アニメの同様のプロットラインとは異なります。",
+        "primary_language": "jpn",
+        "primary_type": "series",
+        "status": "Continuing",
+        "type": "series",
+        "tvdb_id": "440820",
+        "year": "2024",
+        "slug": "dragon-ball-daima",
+        "overviews": {
+            "ara": "كان جوكو وأصدقاؤه يعيشون حياة هادئة ولكن انكمشوا فجأة بسبب مؤامرة! عندما يكتشفون أن السبب قد يكمن في عالم يسمى \"عالم الشياطين\"، يظهر أمامهم مجنون شاب غامض يدعى جلوريو.",
+            "deu": "Aufgrund einer Verschwörung werden Goku und seine Freunde in Kinder verwandelt. Sie beabsichtigen, in eine geheimnisvolle neue Welt zu reisen, um diese Verwandlung rückgängig zu machen.",
+            "eng": "Goku and company were living peaceful lives when they suddenly turned small due to a conspiracy! When they discover that the reason for this may lie in a world known as the \"Demon Realm\", a mysterious young Majin named Glorio appears before them.",
+            "fra": "Goku et ses amis menaient une vie paisible quand, tout à coup, ils redeviennent petits ! Ils découvrent que l’origine de cette conspiration trouve sa source dans un monde connu sous le nom du “Royaume des Démons\". C’est alors qu'apparaît un jeune et mystérieux Majin nommé Glorio...",
+            "ita": "Trasformati misteriosamente in versioni ridotte di se stessi, Goku e i suoi amici partono per il Mondo Demoniaco alla ricerca della verità e di una cura.",
+            "jpn": "その物語では、悟空、ベジータ、ブルマ、そしてシリーズ全体の他のキャラクターが通常よりも若くなります。ただし、これは、元のシリーズの終了後に悟空が子供に戻るドラゴンボール GT アニメの同様のプロットラインとは異なります。",
+            "kor": "평화로운 나날을 보내던 오공 일행은, 갑자기 어떤 음모로 인해 어린 모습으로 변해버렸다!\r\n그 이유가 \"대마계\"라고 불리는 세계와 연관이 있을 것이라 밝혀낸 오공 일행 앞에, 수수께끼의 마인 글로리오가 나타난다!",
+            "pol": "Goku i przyjaciele zostają pomniejszeni w tajemniczych okolicznościach, po czym muszą wyruszyć do Królestwa Demonów, aby odkryć prawdę i znaleźć antidotum.",
+            "pt": "Goku e companhia viviam pacificamente quando de repente ficaram pequenos por causa de uma conspiração! Quando eles descobrem que o motivo para isso pode estar no \"Mundo dos Demônios\", um misterioso Majin chamado Glorio aparece para eles.",
+            "spa": "Goku y compañía llevaban una vida tranquila cuando de repente se volvieron pequeños debido a una conspiración. Cuando descubren que la razón de esto puede estar en un mundo conocido como el \"Reino de los Demonios\", un misterioso joven Majin llamado Glorio aparece ante ellos."
+        },
+        "translations": {
+            "ara": "دراغون بول دايما",
+            "deu": "Dragon Ball Daima",
+            "eng": "Dragon Ball DAIMA",
+            "fra": "Dragon Ball DAIMA",
+            "ita": "Dragon Ball DAIMA",
+            "jpn": "ドラゴンボールDAIMA",
+            "kor": "드래곤볼 다이마",
+            "pol": "Dragon Ball DAIMA",
+            "pt": "Dragon Ball DAIMA",
+            "spa": "Dragon Ball DAIMA",
+            "zho": "龙珠 大魔"
+        },
+        "network": "Fuji TV",
+        "remote_ids": [
+            {
+                "id": "10.5240/2F4D-0606-E173-F583-D22D-P",
+                "type": 13,
+                "sourceName": "EIDR"
+            },
+            {
+                "id": "https://dragonball.fandom.com/wiki/Dragon_Ball_Daima",
+                "type": 8,
+                "sourceName": "Fan Site"
+            },
+            {
+                "id": "tt29485149",
+                "type": 2,
+                "sourceName": "IMDB"
+            },
+            {
+                "id": "https://dragonballdaima.com/",
+                "type": 4,
+                "sourceName": "Official Website"
+            },
+            {
+                "id": "DragonBallDaima",
+                "type": 7,
+                "sourceName": "Reddit"
+            },
+            {
+                "id": "236994",
+                "type": 12,
+                "sourceName": "TheMovieDB.com"
+            },
+            {
+                "id": "75093",
+                "type": 19,
+                "sourceName": "TV Maze"
+            },
+            {
+                "id": "Q123022503",
+                "type": 18,
+                "sourceName": "Wikidata"
+            },
+            {
+                "id": "Dragon_Ball_Daima",
+                "type": 24,
+                "sourceName": "Wikipedia"
+            },
+            {
+                "id": "DB_official_jp",
+                "type": 6,
+                "sourceName": "X (Twitter)"
+            }
+        ],
+        "thumbnail": "https://artworks.thetvdb.com/banners/v4/series/440820/posters/669da50441a97_t.jpg"
+    }
+]
